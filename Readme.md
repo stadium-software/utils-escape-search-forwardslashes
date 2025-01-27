@@ -24,7 +24,7 @@ for (let i = 0; i < boxes.length; i++) {
 ```
 
 ## Page
-1. Normally add DataGrids
+1. Add any number of DataGrids
 
 ## Page.Load
 1. Drag the "EscapeSearchBoxSlashes" script to the page Load event handler
